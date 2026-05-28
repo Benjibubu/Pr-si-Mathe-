@@ -1,0 +1,617 @@
+════════════════════════════════════════════════════════════
+   SPRECHER-SKRIPT  —  BEN HAMMEN
+   SpaceX-Präsentation · Julius Müller & Ben Hammen
+   Mai 2026
+════════════════════════════════════════════════════════════
+
+LEGENDE
+   [BEN]      → du redest
+   [JULIUS]   → er redest (du wartest, aktiv zuhören!)
+   [BEIDE]    → ihr sprecht gemeinsam / wechselt schnell
+   [BLICK]    → Hinweis zur Körpersprache / zum Publikum
+   [KLICK]    → jetzt die nächste Folie / Animation auslösen
+   (...)      → kurze Pause / Wirkung
+   *kursiv*   → Betonung
+
+
+SPRECHER-VERTEILUNG (Übersicht)
+   01 Titel             → BEIDE  (Begrüßung gemeinsam)
+   02 Willkommen        → BEN     ⬅
+   03 Agenda            → Julius
+   04 Was ist SpaceX    → BEN     ⬅
+   05 Geschichte        → Julius
+   06 Elon Musk         → BEN     ⬅
+   07 Vision            → Julius
+   08 Raketen-Familie   → BEN     ⬅
+   09 Falcon 9          → Julius
+   10 Wiederverwendung  → BEN     ⬅
+   11 Starship          → Julius
+   12 Dragon            → BEN     ⬅
+   13 Starlink          → Julius
+   14 Quiz              → BEN     ⬅
+   15 Zahlen / Auflösung→ Julius
+   16 Wettbewerb        → BEN     ⬅
+   17 Mars              → Julius
+   18 Mond              → BEN     ⬅
+   19 Was bringt's uns? → Julius
+   20 Praxis-Tipps      → BEN     ⬅
+   21 Kritik            → Julius
+   22 Diskussion        → BEIDE   (du moderierst)
+   23 Fazit             → BEIDE   (du sagst 01 + 03)
+   24 Quellen           → Julius
+   25 Fragen?           → BEIDE   (du fängst an)
+
+   → Du hast: 11 Solo-Folien + 4 gemeinsame ≈ ~14 Min Sprechzeit
+   → Julius hat: 10 Solo-Folien + 4 gemeinsame ≈ ~14 Min Sprechzeit
+   → Sehr gut ausbalanciert!
+
+
+────────────────────────────────────────────────────────────
+WARM-UP — 1 MINUTE VOR DEM START
+────────────────────────────────────────────────────────────
+• Atmen: 3× tief ein und aus.
+• Standpunkt: leicht versetzt zu Julius, beide sichtbar.
+• Beamer-Bild prüfen, Klicker testen.
+• Erste Folie schon offen.
+• Lächeln. Publikum kurz anschauen.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 01 — TITEL [BEIDE]
+════════════════════════════════════════════════════════════
+ZEIGE:    Titelbild „SpaceX“, dein/Julius' Name
+DAUER:    ~30 Sek
+ZIEL:     Aufmerksamkeit holen, Spannung aufbauen
+
+[BEN]
+   „Stellt euch vor, ihr lebt nicht auf der Erde.
+    Sondern auf einem anderen Planeten. (…)
+    Klingt nach Science-Fiction?
+    Eine einzige Firma arbeitet genau daran.“
+
+[JULIUS]
+   „Diese Firma heißt SpaceX. Und in den nächsten
+    30 Minuten zeigen euch Ben und ich, warum
+    sie gerade die Raumfahrt komplett umkrempelt.“
+
+[KLICK → Folie 02]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 02 — WILLKOMMEN [BEN]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE:    „Heute fliegen wir mit SpaceX.“
+          Schlagwörter: RAKETEN. VISIONEN. DISKUSSION.
+DAUER:    ~45 Sek
+ZIEL:     Klare Erwartungen setzen, dich vorstellen
+
+[BEN]
+   „Ich bin Ben, das ist Julius.
+    Wir wollen euch heute auf eine Reise mitnehmen — eine Reise
+    durch das Unternehmen SpaceX. (…)
+
+    Drei Dinge stehen im Mittelpunkt:
+    — *Raketen*, die landen statt zu verglühen.
+    — *Visionen*, die ein bisschen verrückt klingen.
+    — Und eine *Diskussion*, bei der wir euch am Ende hören wollen.
+
+    Wir wollen, dass ihr Fragen stellt — wenn nicht gleich,
+    dann ganz am Ende. Bereit? Dann los.“
+
+[BLICK]  einmal kurz von links nach rechts durchs Publikum
+[KLICK → Folie 03]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 03 — AGENDA  [JULIUS]
+════════════════════════════════════════════════════════════
+DAUER: ~45 Sek
+DU: zuhören, leicht nicken, NICHT auf das Handy schauen.
+    Wenn Julius bei „Mond & Mars“ ist, kannst du kurz lächeln
+    — das macht das Publikum neugierig.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 04 — WAS IST SPACEX?  [BEN]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE:    4 Schlagworte: PRIVAT · WIEDERVERWENDBAR · SCHNELL · AMBITIONIERT
+DAUER:    ~90 Sek
+ZIEL:     Klares Bild davon geben, *was* SpaceX ist
+
+[BEN]
+   „SpaceX in vier Worten.
+
+    *Privat* — das ist das Wichtigste. SpaceX ist
+    *kein* Staatsprogramm wie die NASA, sondern eine ganz
+    normale Firma. Gegründet 2002 in Kalifornien.
+
+    *Wiederverwendbar* — und das ist die zweite Revolution.
+    Bisher waren Raketen wie Wegwerf-Becher. SpaceX hat
+    die ersten Raketen gebaut, die nach dem Start
+    *zurückfliegen* und landen.
+
+    *Schnell* — 2024 ist alle 2 bis 3 Tage eine SpaceX-Rakete
+    gestartet. Das hat es vorher nie gegeben.
+
+    *Ambitioniert* — denn das Ziel ist nicht der Mond, nicht der
+    Orbit … sondern der Mars.
+
+    Schauen wir uns das jetzt im Detail an —
+    und wie ist das alles eigentlich entstanden?“
+
+[KLICK → Folie 05, Übergabe an Julius]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 05 — GESCHICHTE  [JULIUS]
+════════════════════════════════════════════════════════════
+DU: zuhören. Wenn Julius bei 2008 (Falcon 1) ist,
+    kannst du leise „fast pleite damals“ einwerfen,
+    falls ihr das so abgesprochen habt. Sonst still bleiben.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 06 — ELON MUSK  [BEN]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE:    großes Portrait + Fakten-Liste
+DAUER:    ~90 Sek
+ZIEL:     den Menschen hinter SpaceX zeigen
+
+[BEN]
+   „Damit eine Firma so etwas machen kann, braucht es jemanden
+    mit einer extrem klaren Vision. Bei SpaceX ist das *Elon Musk*.
+
+    Kurz zu ihm:
+    — geboren 1971 in Pretoria, Südafrika.
+    — Mit 24 zieht er in die USA, studiert Physik und BWL.
+    — Sein erster großer Hit: PayPal. Der Verkauf 2002 spült
+       ihm rund 180 Millionen Dollar in die Kasse.
+
+    Genau dieses Geld nimmt er und gründet SpaceX. (…)
+
+    Heute ist er CEO von SpaceX, Tesla, xAI und X
+    — also dem ehemaligen Twitter. Sein Vermögen wird auf
+    *über 300 Milliarden Dollar* geschätzt. Das ist die Größenordnung
+    eines kleinen Staates.
+
+    Aber — und das ist wichtig — Elon Musk ist auch *umstritten*.
+    Dazu kommen wir später noch im Kritik-Teil zurück.
+
+    Warum macht er das Ganze? Das beantwortet Julius jetzt.“
+
+[BLICK]  zu Julius
+[KLICK → Folie 07]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 07 — VISION  [JULIUS]
+════════════════════════════════════════════════════════════
+DU: stehst etwas zurück. Beim Zitat
+    „Die Menschheit multiplanetar machen“ —
+    bewusst NICKEN, das wirkt stark.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 08 — RAKETEN-FAMILIE  [BEN]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE:    4 Raketen-Silhouetten in Größenvergleich
+DAUER:    ~90 Sek
+ZIEL:     Größenordnungen sichtbar machen
+
+[BEN]
+   „SpaceX hat heute vier Raketen-Familien — und ihr seht den
+    Größenvergleich hier in einem Bild. (…)
+
+    Links die kleine *Falcon 1*: 21 Meter, ungefähr so hoch
+    wie ein 7-stöckiges Haus. Heute außer Betrieb,
+    aber sie war 2008 die erste private Rakete im Orbit.
+
+    Daneben die *Falcon 9*. 70 Meter. Das ist die
+    Arbeits-Rakete. Sie startet seit 2010 und fliegt fast
+    jede Woche. Julius erzählt euch gleich mehr dazu.
+
+    Die *Falcon Heavy* — drei Falcon-9-Booster nebeneinander.
+    Damit kann SpaceX besonders schwere Satelliten ins All
+    schießen. Beeindruckend, aber selten genutzt.
+
+    Und ganz rechts: *Starship*. 121 Meter.
+    Das ist die *höchste Rakete*, die je gebaut wurde.
+    Mehr als die Freiheitsstatue inklusive Sockel.
+    Sie ist gerade in der Test-Phase.
+
+    Schauen wir uns jetzt zuerst das Arbeitspferd an —
+    die Falcon 9.“
+
+[KLICK → Folie 09]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 09 — FALCON 9  [JULIUS]
+════════════════════════════════════════════════════════════
+DU: ruhig zuhören. Falls Bild mit Falcon-Start dabei ist:
+    Lass die Stimmung wirken, nicht reden.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 10 — WIEDERVERWENDBARKEIT  [BEN]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE:    Balken-Diagramm: Kosten pro kg in den Orbit
+          (Shuttle 54.500 $ → Starship 200 $)
+DAUER:    ~120 Sek (mit Mathe-Moment!)
+ZIEL:     Den „Wow-Moment“ liefern — Mathe!
+
+[BEN]
+   „Jetzt kommt der wichtigste Teil unseres Vortrags.
+
+    *Bisher* — also seit Beginn der Raumfahrt — galt:
+    Eine Rakete fliegt einmal. Dann verglüht sie oder fällt
+    ins Meer. (…) Wie ein Auto, das nach einer Fahrt
+    weggeworfen wird.
+
+    Was hat SpaceX gemacht? Sie haben Raketen gebaut, die
+    nach dem Start zurückkommen — und auf einem Bein
+    landen wie ein riesiger Stelzenläufer.
+
+    Was das wirtschaftlich bedeutet, seht ihr im Diagramm.
+    Hier sind die Kosten, um *ein Kilogramm* in den Orbit zu
+    bringen.
+
+    Schaut auf den ersten Balken: Space Shuttle, *54.500 Dollar*
+    pro Kilo. Stellt euch das vor — eine Wasserflasche,
+    1,5 Kilo, kostet im Orbit über 80.000 Dollar.
+
+    Falcon 9 heute: *2.720 Dollar* pro Kilo.
+    Und Starship — wenn es voll funktioniert — soll runter auf
+    *200 Dollar* pro Kilo.
+
+    Rechnet kurz mit:
+    Von 54.500 auf 200 — das sind *minus 99 Prozent*.
+
+    Diese eine Idee hat die ganze Raumfahrt-Branche verändert.
+    Plötzlich können auch Unis, Start-ups oder kleine Länder
+    Satelliten ins All schicken.
+
+    Und genau diese Idee macht jetzt das nächste Kapitel möglich:
+    Starship. Übernimm, Julius.“
+
+[KLICK → Folie 11]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 11 — STARSHIP  [JULIUS]
+════════════════════════════════════════════════════════════
+DU: zuhören. Wenn Julius „121 Meter“ sagt,
+    wenn ihr wollt: kurz nach oben zeigen ↑ — die
+    Höhe körperlich nachvollziehbar machen.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 12 — DRAGON  [BEN]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE:    2 Bilder + Karten „Cargo Dragon“ und „Crew Dragon“
+DAUER:    ~75 Sek
+ZIEL:     Klar machen, dass SpaceX nicht nur Raketen baut
+
+[BEN]
+   „Eine Rakete bringt etwas hoch — aber *was* eigentlich?
+    Hier kommt die zweite Hauptkomponente: die *Dragon-Kapsel*.
+
+    Es gibt sie in zwei Versionen:
+
+    Links die *Cargo Dragon* — für *Fracht*. Seit 2012 versorgt
+    sie die internationale Raumstation ISS. Bis zu *6.000 Kilo*
+    pro Flug. Das sind Lebensmittel, Wasser, Experimente,
+    Ersatzteile für die Astronauten.
+
+    Rechts die *Crew Dragon* — für *Menschen*. Seit 2020.
+    Vier Sitzplätze, Andockmanöver komplett automatisch.
+    Damit ist SpaceX die *erste private Firma*, die Astronauten
+    ins All gebracht hat.
+
+    Und 2021 ging es noch einen Schritt weiter: bei
+    *Inspiration4* sind zum ersten Mal vier *Zivilisten*
+    geflogen — keine Berufs-Astronauten. (…)
+
+    Internet aus dem All — wie das geht, erklärt Julius jetzt.“
+
+[KLICK → Folie 13]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 13 — STARLINK  [JULIUS]
+════════════════════════════════════════════════════════════
+DU: zuhören. Bei dem Wachstums-Balken: leise erstaunen.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 14 — QUIZ  [BEN]   ⬅ DEINE FOLIE, MODERATION!
+════════════════════════════════════════════════════════════
+ZEIGE:    Quiz: Wie hoch ist Starship? A 72 / B 98 / C 121 / D 180
+DAUER:    ~90 Sek (mit Publikums-Reaktion)
+ZIEL:     Energie ins Publikum bringen, Aufmerksamkeit zurückholen
+
+[BEN]
+   „Halt — bevor wir weitermachen, eine kleine Frage an euch.
+
+    Wir haben vorhin von Starship gesprochen.
+    Wie hoch glaubt ihr ist diese Rakete?
+
+    Vier Antworten:
+    A — 72 Meter, das wäre wie Falcon 9.
+    B — 98 Meter, wie die alte Mondrakete Saturn V.
+    C — 121 Meter, höher als die Freiheitsstatue.
+    D — 180 Meter, höher als der Kölner Dom.
+
+    Hände hoch — wer sagt A? (…) wer B? (…) wer C? (…) wer D?“
+
+[BLICK] Hände zählen, nicken
+[BEN]
+   „Spannend. Wer Recht hat, klärt Julius jetzt auf.“
+
+[KLICK → Folie 15]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 15 — ZAHLEN / AUFLÖSUNG QUIZ  [JULIUS]
+════════════════════════════════════════════════════════════
+DU: zuhören. Wenn Julius die Lösung „C“ verkündet,
+    kannst du den Publikums-Gewinnern Daumen hoch zeigen.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 16 — WETTBEWERB  [BEN]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE:    Vergleichstabelle: SpaceX, NASA, Blue Origin, ESA, CNSA
+DAUER:    ~90 Sek
+ZIEL:     SpaceX in Kontext setzen — sie sind nicht allein
+
+[BEN]
+   „SpaceX ist groß — aber sie sind nicht allein.
+
+    Hier seht ihr die wichtigsten Akteure im Vergleich:
+
+    *NASA* — die alte Nummer eins, staatlich. Macht vor allem
+    Wissenschaft: Mars-Rover, Hubble, James-Webb-Teleskop.
+    Schwäche: langsam und teuer.
+
+    *Blue Origin* — die Konkurrenz-Firma von Jeff Bezos,
+    dem Amazon-Gründer. Riesige Investitionen,
+    aber: bisher kaum Orbit-Flüge.
+
+    *ESA* — die europäische Raumfahrt. Forschung auf
+    Spitzenniveau, *aber* fast keine wiederverwendbaren
+    Raketen. Da hängen wir in Europa wirklich hinterher.
+
+    *CNSA* — China. Eigene Raumstation seit 2022,
+    eigene Mond-Pläne. Wenig Transparenz, schwer einzuschätzen.
+
+    Trotz dieser Konkurrenz: 2024 gehen *fast 9 von 10*
+    weltweiten Raketenstarts auf SpaceX. Das ist eine
+    Marktdominanz, die es so noch nie gegeben hat.“
+
+[KLICK → Folie 17]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 17 — MARS  [JULIUS]
+════════════════════════════════════════════════════════════
+DU: zuhören. Wenn Julius „selbsterhaltende Kolonie“ sagt,
+    kannst du ganz leicht skeptisch lächeln —
+    das setzt die Stimmung für Kritik später.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 18 — MOND / ARTEMIS  [BEN]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE:    Bild Mondlander + Artemis-Fakten
+DAUER:    ~75 Sek
+ZIEL:     Brücke schlagen: Bevor Mars geht — der Mond.
+
+[BEN]
+   „Bevor SpaceX zum Mars kommt, muss noch eine andere
+    Station genommen werden: der *Mond*.
+
+    Die NASA hat das Programm *Artemis* gestartet —
+    benannt nach der Schwester von Apollo, dem ersten
+    Mondprogramm. Ziel: zum ersten Mal seit *1972* wieder
+    Menschen auf dem Mond zu landen.
+
+    Und — überraschend — das macht die NASA nicht alleine.
+    Sie hat einen *4-Milliarden-Dollar-Vertrag* mit SpaceX
+    abgeschlossen. SpaceX baut den Lander, das sogenannte
+    *Starship HLS* — Human Landing System.
+
+    Geplant ist Artemis III ab 2027. Und etwas Besonderes:
+    Zum ersten Mal soll eine *Frau* den Mond betreten —
+    und eine Person of Color.
+
+    Langfristig: eine *dauerhafte Mond-Basis* am Südpol,
+    weil dort Wasser-Eis vermutet wird.
+
+    Was aber bringt das uns hier auf der Erde?
+    Sehr viel — Julius zeigt's euch.“
+
+[KLICK → Folie 19]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 19 — WAS BRINGT UNS DAS?  [JULIUS]
+════════════════════════════════════════════════════════════
+DU: zuhören. Wenn Julius bei „Internet überall“ ist,
+    kannst du die Sat-Schüssel-Geste machen (Hand nach oben).
+
+
+════════════════════════════════════════════════════════════
+FOLIE 20 — PRAXIS-TIPPS  [BEN]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE:    4 Tipp-Karten: BEOBACHTEN · ZUSCHAUEN · LERNEN · MITREDEN
+DAUER:    ~90 Sek
+ZIEL:     Publikum aktiv abholen — nach Hause mit Tat
+
+[BEN]
+   „Klingt alles weit weg? Ist es nicht. Vier Sachen, die ihr
+    schon heute Abend selber machen könnt.
+
+    *Eins — Beobachten.*
+    Starlink-Satelliten sind tatsächlich von der Erde
+    aus zu sehen. Wie eine Perlenkette am Himmel.
+    Es gibt Apps: „Heavens-Above“ oder „Starlink Tracker“,
+    die euch sagen, wann genau eine über euch fliegt.
+
+    *Zwei — Zuschauen.*
+    Jeden SpaceX-Start gibt es live auf YouTube und X.
+    Mit Telemetriedaten, Triebwerks-Druck, Geschwindigkeit.
+    Kostenlos. Spannender als jede Netflix-Serie, versprochen.
+
+    *Drei — Lernen.*
+    Wer es ernster meint: Modellraketen von Estes
+    kosten 30 Euro. Oder ihr probiert „Kerbal Space Program“,
+    das ist ein Spiel, in dem man eigene Raketen baut —
+    nach echten physikalischen Gesetzen.
+
+    *Vier — Mitreden.*
+    Glaubt nicht alles, was SpaceX selbst sagt.
+    Vergleicht: NASA, ESA, unabhängige Medien.
+    Quellenkritik ist auch im Weltraum wichtig.
+
+    Aber — und das ist der nächste Punkt —
+    nicht alles am SpaceX-Erfolg ist Gold. Übernimm, Julius.“
+
+[KLICK → Folie 21]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 21 — KRITIK  [JULIUS]
+════════════════════════════════════════════════════════════
+DU: zuhören. Das ist eine wichtige Folie —
+    NICHT lachen oder verharmlosen. Ernsthafte Stimmung.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 22 — DISKUSSION  [BEIDE, DU MODERIERST]   ⬅
+════════════════════════════════════════════════════════════
+ZEIGE:    Große Frage „Darf eine private Firma den Weltraum lenken?“
+          + PRO / CONTRA Karten
+DAUER:    ~150 Sek (das Publikum reden lassen!)
+ZIEL:     Aktives Mitdenken, Meinungsbildung
+
+[BEN]
+   „Jetzt seid ihr dran.
+
+    Die Frage, die wir mit euch diskutieren wollen:
+    Darf eine *einzige private Firma* den Weltraum lenken?
+
+    Wir geben euch zwei Argumente an die Hand:
+
+    Pro — auf der linken Seite:
+    *schneller, günstiger, innovativer.*
+    Der Staat kann beauftragen, ohne selber Raketen zu bauen.
+
+    Contra — rechts:
+    *Abhängigkeit, Macht, Politik.*
+    Wenn Elon Musk morgen Starlink in einem Krieg
+    abschaltet — kann er das einfach so tun?
+
+    Ich gebe euch 60 Sekunden Murmeln mit eurem Nachbarn,
+    dann sammeln wir 2–3 Meinungen.“
+
+[BLICK]   Stoppuhr / Handy raus, 60 Sekunden warten
+[BEN]     „So — wer hat sich für PRO entschieden? Warum?“
+[JULIUS]  ergänzt, fasst zusammen
+[BEN]     „Und CONTRA? Wer? Warum?“
+
+[BEN]
+   „Genau diese Frage werdet ihr in den nächsten Jahren
+    noch oft hören. Es gibt keine einfache Antwort —
+    deshalb ist es so wichtig, dass ihr euch eine *eigene*
+    Meinung bildet. (…)
+
+    Damit sind wir fast am Ende. Lass uns kurz zusammenfassen.“
+
+[KLICK → Folie 23]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 23 — FAZIT  [BEIDE]   ⬅ DU 01 + 03, JULIUS 02
+════════════════════════════════════════════════════════════
+ZEIGE:    3 nummerierte Aussagen
+DAUER:    ~60 Sek
+ZIEL:     Klare Mitnehm-Botschaft
+
+[BEN]
+   „Drei Sätze, die ihr mitnehmen sollt.
+
+    *Eins:* SpaceX hat Raumfahrt billiger gemacht —
+    durch wiederverwendbare Raketen.“
+
+[JULIUS]
+   „*Zwei:* Heute ist SpaceX der größte Akteur im Orbit —
+    mit allen Chancen und allen Risiken.“
+
+[BEN]
+   „*Drei:* Mond, Mars, Internet aus dem All —
+    das nächste Jahrzehnt entscheidet, was davon real wird.
+    Und ihr werdet das alles miterleben.“
+
+[KLICK → Folie 24]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 24 — QUELLEN  [JULIUS]
+════════════════════════════════════════════════════════════
+DU: zuhören. Kurze Folie, ~30 Sek.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 25 — FRAGEN?  [BEIDE]   ⬅ DU FÄNGST AN
+════════════════════════════════════════════════════════════
+ZEIGE:    riesiges „Fragen?“
+DAUER:    bis 5 Min (Q&A)
+ZIEL:     Diskussion, Publikum kommt zu Wort
+
+[BEN]
+   „Das war's von uns. Wir haben jetzt Zeit für eure Fragen —
+    egal ob technisch, kritisch oder neugierig.“
+
+[JULIUS]
+   „Wenn ihr gerade keine Frage habt, fragen wir euch:
+    Würdet ihr selber zum Mars fliegen, wenn ihr könntet?“
+
+[Q&A — abwechselnd antworten, niemals beide gleichzeitig
+        reden. Wer eine Frage besser kennt, antwortet.
+        „Gute Frage, weiß ich nicht“ ist eine erlaubte Antwort!]
+
+[ABSCHLUSS]
+[BEN]     „Danke fürs Zuhören und fürs Mitdenken!“
+
+
+════════════════════════════════════════════════════════════
+HINWEISE FÜR DICH PERSÖNLICH
+════════════════════════════════════════════════════════════
+
+LAUTSTÄRKE
+   Etwas lauter als im Klassengespräch. Letzte Reihe muss
+   dich verstehen können — vor allem die Zahlen auf Folie 10.
+
+TEMPO
+   Eher langsam als zu schnell. Pausen sind dein Freund.
+   Nach einer wichtigen Zahl: 1 Sekunde Stille = Wirkung.
+
+KÖRPERSPRACHE
+   Hände *nicht* in die Hosentaschen. Eher locker vor dem
+   Bauch oder beim Sprechen mitbewegen.
+
+BLICKKONTAKT
+   Pro Folie 2–3× kurz zu verschiedenen Personen im Publikum
+   schauen — nicht immer in dieselbe Ecke.
+
+WENN DU EINEN HÄNGER HAST
+   Lieber kurz „Moment“ sagen und nachschauen, als
+   etwas Falsches erzählen. Authentisch wirkt sympathisch.
+
+NIE
+   • „Äh“, „halt“, „so“ einbauen — bewusst weglassen.
+   • Vom Publikum wegdrehen, um auf die Folie zu lesen.
+   • Julius unterbrechen.
+
+VIEL ERFOLG, BEN!  🚀

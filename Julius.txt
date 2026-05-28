@@ -1,0 +1,681 @@
+════════════════════════════════════════════════════════════
+   SPRECHER-SKRIPT  —  JULIUS MÜLLER
+   SpaceX-Präsentation · Julius Müller & Ben Hammen
+   Mai 2026
+════════════════════════════════════════════════════════════
+
+LEGENDE
+   [JULIUS]   → du redest
+   [BEN]      → er redet (du wartest, aktiv zuhören!)
+   [BEIDE]    → ihr sprecht gemeinsam / wechselt schnell
+   [BLICK]    → Hinweis zur Körpersprache / zum Publikum
+   [KLICK]    → jetzt die nächste Folie / Animation auslösen
+   (...)      → kurze Pause / Wirkung
+   *kursiv*   → Betonung
+
+
+SPRECHER-VERTEILUNG (Übersicht)
+   01 Titel             → BEIDE
+   02 Willkommen        → Ben
+   03 Agenda            → JULIUS  ⬅
+   04 Was ist SpaceX    → Ben
+   05 Geschichte        → JULIUS  ⬅
+   06 Elon Musk         → Ben
+   07 Vision            → JULIUS  ⬅
+   08 Raketen-Familie   → Ben
+   09 Falcon 9          → JULIUS  ⬅
+   10 Wiederverwendung  → Ben
+   11 Starship          → JULIUS  ⬅
+   12 Dragon            → Ben
+   13 Starlink          → JULIUS  ⬅
+   14 Quiz              → Ben
+   15 Zahlen / Lösung   → JULIUS  ⬅
+   16 Wettbewerb        → Ben
+   17 Mars              → JULIUS  ⬅
+   18 Mond              → Ben
+   19 Was bringt's uns? → JULIUS  ⬅
+   20 Praxis-Tipps      → Ben
+   21 Kritik            → JULIUS  ⬅
+   22 Diskussion        → BEIDE   (Ben moderiert, du ergänzt)
+   23 Fazit             → BEIDE   (du sagst 02)
+   24 Quellen           → JULIUS  ⬅
+   25 Fragen?           → BEIDE
+
+   → Du hast: 10 Solo-Folien + 4 gemeinsame ≈ ~14 Min Sprechzeit
+   → Ben hat: 11 Solo-Folien + 4 gemeinsame ≈ ~14 Min Sprechzeit
+
+
+────────────────────────────────────────────────────────────
+WARM-UP — 1 MINUTE VOR DEM START
+────────────────────────────────────────────────────────────
+• Standpunkt: leicht versetzt zu Ben, beide sichtbar.
+• Atmen: 3× tief ein und aus.
+• Hände raus aus den Hosentaschen.
+• Du bist „der ruhige Erzähler“ — Ben ist eher der „Hook“.
+  Eure Stimmen sollen sich ergänzen, nicht überschneiden.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 01 — TITEL  [BEIDE]
+════════════════════════════════════════════════════════════
+ZEIGE: „SpaceX“ groß, eure Namen
+DAUER: ~30 Sek
+
+[BEN]
+   „Stellt euch vor, ihr lebt nicht auf der Erde.
+    Sondern auf einem anderen Planeten. (…)
+    Klingt nach Science-Fiction?
+    Eine einzige Firma arbeitet genau daran.“
+
+[JULIUS]   ⬅ deine Rolle: ruhig, klar, etwas tiefer
+   „Diese Firma heißt SpaceX. Und in den nächsten
+    30 Minuten zeigen euch Ben und ich, warum
+    sie gerade die Raumfahrt komplett umkrempelt.“
+
+[KLICK → Folie 02]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 02 — WILLKOMMEN  [BEN]
+════════════════════════════════════════════════════════════
+DU: zuhören. Stehst leicht zurück, lässt Ben die Bühne.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 03 — AGENDA  [JULIUS]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE: 12-Punkte-Agenda in 2 Spalten
+DAUER: ~45 Sek
+ZIEL:  Klare Struktur geben, Vertrauen aufbauen
+
+[JULIUS]
+   „Damit ihr wisst, was euch erwartet, ein kurzer Fahrplan.
+
+    Wir starten mit der *Basis*: Was ist SpaceX überhaupt,
+    wie ist sie entstanden — und wer ist Elon Musk?
+
+    Dann gehen wir in die *Technik*: die verschiedenen Raketen,
+    das Geheimnis der Wiederverwendbarkeit, die Dragon-Kapsel
+    und Starlink.
+
+    Anschließend wird's *spannend*: die Zukunft. Mond, Mars
+    und was das für uns hier auf der Erde bedeutet.
+
+    Und am Schluss — und das ist uns besonders wichtig —
+    *eure Meinung*. Wir diskutieren, wir nehmen Fragen.
+
+    Insgesamt: rund 30 Minuten. Wir freuen uns drauf.“
+
+[KLICK → Folie 04]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 04 — WAS IST SPACEX?  [BEN]
+════════════════════════════════════════════════════════════
+DU: zuhören. Nicke bei den vier Schlagworten.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 05 — GESCHICHTE  [JULIUS]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE: Zeitstrahl mit 6 Meilensteinen 2002–2024
+DAUER: ~120 Sek
+ZIEL:  Geschichte als spannende Erzählung — nicht als Liste
+
+[JULIUS]
+   „Schauen wir uns die Geschichte von SpaceX an.
+    23 Jahre. 6 entscheidende Sprünge.
+
+    *2002* — Gründung in Kalifornien.
+    Musk hat gerade PayPal verkauft und steckt das Geld
+    — rund *100 Millionen Dollar* — in eine Raketen-Firma.
+    Viele lachen ihn aus.
+
+    *2008* — Falcon 1 erreicht den Orbit. Das war knapp.
+    Die ersten drei Versuche schlugen alle fehl.
+    SpaceX war damals fast pleite. Der vierte Start klappt —
+    SpaceX ist die *erste private Firma im Orbit*.
+
+    *2012* — die Dragon-Kapsel dockt an der ISS an.
+    Erstmals macht das eine Firma, nicht ein Staat.
+
+    *2015* — und das ist *der* Moment: Eine Falcon 9 startet,
+    setzt einen Satelliten ab und ihr Booster *landet
+    zurück auf einer Plattform im Atlantik*. Die ganze Branche
+    hat das vorher für unmöglich gehalten.
+
+    *2020* — die erste bemannte Mission: Demo-2. SpaceX bringt
+    NASA-Astronauten zur Raumstation. Die USA hatten seit
+    2011 keine eigene Möglichkeit mehr dafür.
+
+    *2024* — und der jüngste Coup: der Starship-Booster
+    landet *nicht auf einem Bein*, sondern wird mit
+    *zwei Fangarmen* aus dem Himmel gefangen. (…)
+    Aus einer kleinen Firma ist in 23 Jahren der größte
+    Raumfahrtkonzern der Welt geworden.
+
+    Wer steckt eigentlich dahinter? Ben.“
+
+[BLICK]   zu Ben
+[KLICK → Folie 06]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 06 — ELON MUSK  [BEN]
+════════════════════════════════════════════════════════════
+DU: zuhören. Ben übernimmt 90 Sekunden.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 07 — VISION / MISSION  [JULIUS]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE: Großes Musk-Zitat „Die Menschheit multiplanetar machen.“
+       + 3 Säulen MISSION / VISION / METHODE
+DAUER: ~75 Sek
+ZIEL:  Das WARUM klar machen — emotional, kurz
+
+[JULIUS]
+   „Warum macht eigentlich jemand so etwas?
+
+    Hier ist die Antwort. Eine einzige Aussage, die alles
+    bei SpaceX antreibt:
+
+    *„Die Menschheit multiplanetar machen.“*
+
+    Übersetzt: Musk glaubt, dass die Menschheit langfristig
+    nicht *nur* auf der Erde leben sollte. (…)
+    Ein Asteroid, ein Atomkrieg, eine Pandemie —
+    wenn alles auf einem Planeten passiert, kann alles
+    gleichzeitig zerstört werden.
+
+    Wenn ihr in einem Wort denkt:
+    *Mission* — billiger fliegen.
+    *Vision* — Mars besiedeln.
+    *Methode* — wiederverwenden.
+
+    Und genau dahin schauen wir uns jetzt an,
+    *wie* sie diese Mission konkret umsetzen — mit ihren
+    Raketen. Ben.“
+
+[KLICK → Folie 08]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 08 — RAKETEN-FAMILIE  [BEN]
+════════════════════════════════════════════════════════════
+DU: zuhören. Beim Größenvergleich kann man auch mit
+    der Hand die Höhen andeuten — falls ihr das einübt.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 09 — FALCON 9  [JULIUS]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE: Großes Bild Falcon 9 + Daten
+DAUER: ~90 Sek
+ZIEL:  Falcon 9 als „Arbeitspferd“ greifbar machen
+
+[JULIUS]
+   „Schauen wir uns die *Falcon 9* genauer an —
+    die mit Abstand wichtigste Rakete bei SpaceX.
+
+    Sie ist *70 Meter* hoch — also wie ein 20-stöckiges
+    Hochhaus auf der Seite. Unten arbeiten *neun*
+    Merlin-Triebwerke gleichzeitig. Daher der Name *Falcon 9*.
+
+    Was sie ins All bringen kann: *22,8 Tonnen* in den
+    niedrigen Orbit. Zum Vergleich: das ist das Gewicht von
+    rund 16 Mittelklassewagen, die zusammen ins All fliegen.
+
+    Das eigentlich Verrückte: die *erste Stufe* —
+    der untere Teil, der auch wieder zurückkommt —
+    *kann bis zu 20 Mal fliegen*. Es gibt einzelne Booster,
+    die haben das tatsächlich geschafft.
+
+    Und der Preis: *circa 67 Millionen Dollar* pro Start.
+    Das klingt viel — ist aber rund *ein Drittel* dessen,
+    was eine vergleichbare Ariane-5-Rakete früher gekostet hat.
+
+    Und jetzt zur Frage: Wie schafft SpaceX diese Preise?
+    Der Schlüssel kommt von Ben.“
+
+[KLICK → Folie 10]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 10 — WIEDERVERWENDBARKEIT  [BEN]
+════════════════════════════════════════════════════════════
+DU: zuhören. Ben hat die wichtige Mathe-Folie — gib ihm
+    den Raum. Wenn er „minus 99 Prozent“ sagt, kannst du
+    leise pfeifen oder bewusst die Augenbrauen heben.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 11 — STARSHIP  [JULIUS]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE: Großes Starship-Bild + 4 Zahlen-Fakten
+DAUER: ~120 Sek
+ZIEL:  Das „Riesen-Ding“ erlebbar machen
+
+[JULIUS]
+   „Wenn die Falcon 9 das Arbeitspferd ist, dann ist Starship
+    der *Riese*. Und ich meine das wörtlich.
+
+    *121 Meter*. (kurze Pause) Höher als die Freiheitsstatue
+    in New York — inklusive Sockel. Höher als die
+    Saturn-V-Mondrakete der Apollo-Missionen.
+
+    Sie kann *über 100 Tonnen* in den Orbit bringen.
+    Das ist mehr als alles, was bisher gebaut wurde.
+    Damit könnte man eine komplette Raumstation
+    *in einem einzigen Start* hochbringen.
+
+    Und sie hat *33 Triebwerke* in der ersten Stufe —
+    die heißen *Raptor*. Allein der Schub ist anderthalbmal
+    so groß wie bei Saturn V.
+
+    Und das ganze Ziel — und das ist neu —
+    *kein Wegwerf-Teil mehr*. Booster *und* Schiff sollen
+    zurückkommen. Beide. Vollständig wiederverwendbar.
+
+    Im Oktober 2024 haben sie das erste Mal den Booster
+    nach dem Start mit zwei *Fangarmen* — wie zwei riesige
+    Schere — aus der Luft *gefangen*. Wenn ihr das Video
+    noch nie gesehen habt: schaut es euch heute Abend an.
+    Es sieht aus wie Science-Fiction.
+
+    Aber Starship ist noch in der Test-Phase.
+    Es soll später *Mond, Mars und Satelliten* in den
+    Orbit bringen.
+
+    Genau dieses ‚Satelliten in den Orbit bringen‘ machen sie
+    schon längst — mit Dragon. Ben.“
+
+[KLICK → Folie 12]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 12 — DRAGON  [BEN]
+════════════════════════════════════════════════════════════
+DU: zuhören. Stehe locker da.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 13 — STARLINK  [JULIUS]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE: Balken-Diagramm Satelliten-Wachstum 2019→2025
+DAUER: ~120 Sek
+ZIEL:  Größenordnung des Wachstums sichtbar machen
+
+[JULIUS]
+   „Starlink. Eines der ehrgeizigsten Projekte überhaupt.
+
+    Die Idee: ein *Netz aus Tausenden Satelliten* rund um
+    die Erde, das überall auf der Welt schnelles Internet
+    liefert. Auch da, wo kein Glasfaser- oder Mobilfunknetz
+    ist.
+
+    Schaut euch das Diagramm an. (…)
+
+    2019: 60 Satelliten — der allererste Start.
+    2020: schon fast 1.000.
+    2024: über 6.800.
+    2025: über 7.500 aktive Satelliten.
+
+    Das ist *kein normales Wachstum*. Das ist
+    eine *Explosion*. Zum Vergleich: vorher, in der gesamten
+    Geschichte der Raumfahrt, waren ungefähr 9.000 Satelliten
+    im Orbit. Starlink alleine hat in 6 Jahren so viele
+    hochgeschossen wie die Menschheit in 60 Jahren.
+
+    Was bedeutet das *praktisch*? Vier Dinge — rechts oben:
+
+    Internet ist verfügbar in *über 100 Ländern*.
+    Die Latenz — also wie schnell die Daten ankommen —
+    liegt bei *50 Millisekunden*, fast so schnell wie Glasfaser.
+    Die Satelliten fliegen in *550 Kilometer* Höhe —
+    deutlich niedriger als alte Internet-Satelliten,
+    deshalb so schnell.
+
+    Und besonders im Ukraine-Krieg wurde Starlink
+    *kriegswichtig*: Wenn Stromnetze ausfallen,
+    kann die Armee weiter kommunizieren. Das zeigt aber
+    auch — und das diskutieren wir später —
+    wie *politisch mächtig* SpaceX inzwischen ist.
+
+    Aber jetzt eine kurze Frage an euch. Ben.“
+
+[KLICK → Folie 14]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 14 — QUIZ  [BEN]
+════════════════════════════════════════════════════════════
+DU: zuhören und die Hände zählen. Ben moderiert das Quiz.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 15 — SPACEX IN ZAHLEN  [JULIUS]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE: ✓ Lösung C + Balken Starts/Jahr + 3 Top-Zahlen
+DAUER: ~120 Sek
+ZIEL:  Quiz auflösen, dann das große Bild zeigen
+
+[JULIUS]    (zuerst Lösung)
+   „Die richtige Antwort ist *C* — 121 Meter.
+    Wer das richtig hatte: Glückwunsch. Wer nicht — keine
+    Sorge, niemand hat das auf Anhieb auf dem Schirm.
+
+    Aber jetzt zum *großen Bild*: Schaut euch dieses
+    Diagramm an. (…) Das sind die *Starts pro Jahr*
+    von SpaceX seit 2010.
+
+    2010 — zwei Starts. 2011 — null.
+    2017 — 18 Starts, schon eine ganze Menge.
+    2022 — 61 Starts. Mehr als ein Start pro Woche.
+    2024 — *134 Starts*. Das sind im Schnitt
+    *alle 2,7 Tage* eine Rakete.
+    2025 — wir sind auf Kurs zu rund 170.
+
+    Drei Zahlen ganz rechts, die das einrahmen:
+    *Über 450* Falcon-Starts insgesamt.
+    *Über 400* erfolgreiche Landungen.
+    Und vielleicht die wichtigste:
+    *Rund 87 Prozent* aller weltweiten Raketenstarts
+    in den Orbit gehen 2024 auf SpaceX.
+
+    Eine einzige Firma macht fast neun von zehn Starts
+    weltweit. Das ist historisch — und es ist
+    *gefährlich*. Mehr dazu später. Aber zuerst:
+    Wer macht überhaupt noch Konkurrenz? Ben.“
+
+[KLICK → Folie 16]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 16 — WETTBEWERB  [BEN]
+════════════════════════════════════════════════════════════
+DU: zuhören. Falls Ben bei „Europa hängt hinterher“ ist,
+    kannst du ergänzend kurz nicken — das wirkt selbstkritisch.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 17 — MARS  [JULIUS]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE: Mars-Bild + 4 Phasen-Plan
+DAUER: ~120 Sek
+ZIEL:  Die Vision konkret und greifbar machen
+
+[JULIUS]
+   „Jetzt kommen wir zum großen Traum von SpaceX:
+    eine *Stadt auf dem Mars*.
+
+    Das ist keine Marketing-Phrase. SpaceX hat dazu einen
+    *4-Phasen-Plan*, den ihr hier seht.
+
+    *Phase 1:* Vorrats-Flüge. Unbemannte Starships fliegen
+    mit Solarpanels, Wasser, Treibstoff zum Mars und
+    landen — automatisch. Damit später Menschen etwas
+    vorfinden, wenn sie ankommen.
+
+    *Phase 2:* Die erste *Crew*. Geplant in den späten 2020ern,
+    realistisch wahrscheinlich erst Anfang der 2030er.
+    Die Reise dauert circa *7 Monate* in eine Richtung.
+
+    *Phase 3:* Treibstoff *auf dem Mars* produzieren.
+    Das ist physikalisch genial: man braucht Wasser-Eis
+    aus dem Marsboden plus CO₂ aus der Atmosphäre,
+    daraus macht man Methan — der Treibstoff für Starship.
+    Die Idee heißt *ISRU* — In-Situ Resource Utilization.
+
+    *Phase 4:* Eine *selbsterhaltende Kolonie*. Musks Vision:
+    *eine Million Menschen* bis 2050.
+
+    Klingt nach Science-Fiction. Ist es teilweise auch.
+    Aber: Die einzelnen Bausteine — Starship, Wiederverwendung,
+    Treibstoff-Chemie — *existieren bereits oder sind in
+    Entwicklung*. Es ist nicht mehr „ob“, sondern „wann“.
+
+    Aber zuerst muss SpaceX noch was anderes schaffen —
+    den Mond. Ben.“
+
+[KLICK → Folie 18]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 18 — MOND  [BEN]
+════════════════════════════════════════════════════════════
+DU: zuhören. Ben erzählt Artemis.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 19 — WAS BRINGT UNS DAS?  [JULIUS]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE: 6 Kacheln mit Icons (Internet, Forschung, Erde, …)
+DAUER: ~120 Sek
+ZIEL:  Konkret machen — was hat das mit MEINEM Leben zu tun?
+
+[JULIUS]
+   „Jetzt die wichtige Frage: Was bringt uns das hier
+    auf der Erde? Sechs konkrete Dinge.
+
+    Erstens — *Internet überall*. Starlink bringt schnelles
+    Internet in Dörfer, Wüsten, Krisengebiete. Wer auf dem Land
+    wohnt, kennt das Problem mit langsamem Netz. Starlink
+    löst das — für etwa 50 Euro im Monat.
+
+    Zweitens — *Forschung im All*. Auf der ISS laufen jeden Tag
+    Experimente in Schwerelosigkeit: Medikamente entstehen
+    anders, Materialien kristallisieren neu, sogar
+    künstliche Organe lassen sich dort besser drucken.
+
+    Drittens — *Erdbeobachtung*. Wetter, Klima, Landwirtschaft.
+    Bauern bekommen heute Satellitenbilder ihrer Felder
+    in Echtzeit. Vor 10 Jahren undenkbar — heute Standard.
+
+    Viertens — *Raumfahrt für alle*. Eine Universität kann
+    heute für etwa 100.000 Euro einen eigenen kleinen
+    Satelliten in den Orbit schicken. Vor SpaceX kostete
+    das das Zehnfache.
+
+    Fünftens — *neue Jobs*. Die Raumfahrtindustrie wächst
+    schnell. Auch in Deutschland — bei OHB, beim DLR,
+    bei Rocket Factory Augsburg. Ingenieure, Informatiker,
+    Materialwissenschaftler.
+
+    Sechstens — *GPS und Satelliten allgemein*. Wir nutzen
+    sie jeden Tag, ohne es zu merken: Maps, Wetter, Banking,
+    sogar die Zeitsynchronisation für Mobilfunk.
+
+    Wenn ihr selber einsteigen wollt — Ben hat ein paar
+    Tipps für euch.“
+
+[KLICK → Folie 20]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 20 — PRAXIS-TIPPS  [BEN]
+════════════════════════════════════════════════════════════
+DU: zuhören. Ben gibt die 4 Tipps.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 21 — KRITIK  [JULIUS]   ⬅ DEINE FOLIE (wichtig!)
+════════════════════════════════════════════════════════════
+ZEIGE: 6 Kritikpunkte in roten Kästen
+DAUER: ~120 Sek
+ZIEL:  Ehrlich, ausgewogen — *nicht* alles schönreden
+
+[JULIUS]
+   „Wir sind bisher viel im Glanz gewandert. Aber Raumfahrt
+    hat auch Schattenseiten — und SpaceX besonders.
+    Sechs Punkte, die ihr kennen solltet.
+
+    *Weltraummüll.* Über 7.000 Starlink-Satelliten plus
+    Hunderte alte Bauteile. Wenn zwei davon kollidieren,
+    entsteht eine Wolke aus tausenden Trümmerteilen.
+    Das könnte den Orbit irgendwann *unbenutzbar* machen —
+    das heißt: *Kessler-Syndrom*.
+
+    *Astronomie.* Wenn ihr ein Foto vom Sternenhimmel macht,
+    seht ihr inzwischen oft helle weiße Streifen — das sind
+    Starlink-Satelliten, die durchs Bild fliegen. Echte
+    Astronomen verlieren dadurch Daten von Teleskopen.
+
+    *Umwelt.* In Texas, beim Starship-Startgelände *Boca Chica*,
+    klagen Naturschützer über Lärm, zerstörte Lebensräume und
+    CO₂-Ausstoß. Jeder Starship-Start verbrennt rund
+    *1.000 Tonnen* Methan.
+
+    *Monopol.* Wir haben gesagt: 87 Prozent aller Starts.
+    Wenn eine *einzige Firma* die ganze Raumfahrt dominiert,
+    werden alle anderen — Staaten, andere Firmen — davon
+    abhängig.
+
+    *Person Musk.* Elon Musk macht regelmäßig politische
+    Aussagen, die polarisieren. Das wirft die Frage auf:
+    Kann eine Firma getrennt von ihrem Chef bewertet werden?
+    Schwierig.
+
+    *Versprechen vs. Realität.* Musk hatte schon 2016
+    angekündigt: Menschen *bis 2024* auf dem Mars.
+    Wir sind 2026 — und keiner ist da. Diese Verschiebungen
+    passieren immer wieder.
+
+    Glanz und Schatten gehören zusammen. Genau deshalb
+    wollen wir jetzt mit euch *diskutieren*. Ben moderiert.“
+
+[KLICK → Folie 22]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 22 — DISKUSSION  [BEIDE — Ben moderiert]
+════════════════════════════════════════════════════════════
+DEINE ROLLE: Ben stellt die Frage. Du ergänzt:
+   - hörst zu, was die Klasse sagt
+   - fasst nach 2–3 Wortmeldungen kurz zusammen
+   - bringst, falls nötig, ein „verstecktes Argument“ ein
+
+Falls jemand sagt „SpaceX ist super, was soll das Problem“:
+[JULIUS]
+   „Stell dir vor, deine ganze WhatsApp-Kommunikation
+    läuft über eine *einzige* Firma. Und der Chef entscheidet
+    morgens, wer schreiben darf. Möchtest du das?“
+
+Falls jemand sagt „Nein, NASA soll das machen“:
+[JULIUS]
+   „Aber genau die NASA *nutzt* SpaceX, weil sie selber
+    nicht so schnell und günstig liefern kann. Wie löst man das?“
+
+Ziel: Klasse zum Denken bringen, nicht „Sieger“ haben.
+
+
+════════════════════════════════════════════════════════════
+FOLIE 23 — FAZIT  [BEIDE]   ⬅ DU SAGST PUNKT 02
+════════════════════════════════════════════════════════════
+[BEN]
+   „Drei Sätze, die ihr mitnehmen sollt.
+    Eins: SpaceX hat Raumfahrt billiger gemacht —
+    durch wiederverwendbare Raketen.“
+
+[JULIUS]   ⬅ deine Zeile
+   „*Zwei:* Heute ist SpaceX der größte Akteur im Orbit —
+    mit allen Chancen und allen Risiken.“
+
+[BEN]
+   „Drei: Mond, Mars, Internet aus dem All —
+    das nächste Jahrzehnt entscheidet, was davon real wird.“
+
+[KLICK → Folie 24]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 24 — QUELLEN  [JULIUS]   ⬅ DEINE FOLIE
+════════════════════════════════════════════════════════════
+ZEIGE: Quellen-Liste, 12 Links
+DAUER: ~30 Sek
+ZIEL:  Glaubwürdigkeit zeigen — nicht jeden Link vorlesen!
+
+[JULIUS]
+   „Damit ihr unsere Zahlen nachprüfen könnt:
+    Hier unsere Quellen.
+
+    Wir haben offizielle Daten von *SpaceX* und der *NASA*
+    genutzt, dazu Berichte der ESA und des DLR — also der
+    deutschen Raumfahrtbehörde. Statistiken kommen von
+    *BryceTech* und vom *McDowell-Tracker*, einer unabhängigen
+    Satelliten-Statistik. Für Hintergrundberichte haben wir
+    auch *Spiegel*, *Tagesschau*, *Reuters* und *BBC* genutzt.
+
+    Alle Links findet ihr nochmal am Ende auf unserer
+    PowerPoint. Stand: Mai 2026.“
+
+[KLICK → Folie 25]
+
+
+════════════════════════════════════════════════════════════
+FOLIE 25 — FRAGEN?  [BEIDE]
+════════════════════════════════════════════════════════════
+[BEN]
+   „Das war's von uns. Wir haben jetzt Zeit für eure Fragen —
+    egal ob technisch, kritisch oder neugierig.“
+
+[JULIUS]   ⬅ deine Eröffnung wenn Stille
+   „Wenn ihr gerade keine Frage habt, fragen wir euch:
+    Würdet ihr selber zum Mars fliegen, wenn ihr könntet?“
+
+[Q&A]
+   - Wer die Antwort besser kennt, antwortet zuerst.
+   - „Weiß ich nicht“ ist erlaubt, *immer* mit
+      „aber wir können das gerne nachreichen“ ergänzen.
+   - Niemals beide gleichzeitig reden.
+
+[ABSCHLUSS]
+[JULIUS]
+   „Vielen Dank für eure Aufmerksamkeit
+    und eure Fragen!“
+
+
+════════════════════════════════════════════════════════════
+HINWEISE FÜR DICH PERSÖNLICH
+════════════════════════════════════════════════════════════
+
+DEIN STIL
+   Du bist der „Erzähler“. Eher ruhig, klar, präzise.
+   Bens Stärke ist Energie — deine ist Substanz.
+   Beides braucht ihr.
+
+PAUSEN
+   Mach bewusste Pausen — besonders nach Zahlen.
+   Folie 11 („121 Meter“) ist dafür perfekt.
+   Pause = das Publikum verarbeitet.
+
+ZAHLEN
+   Du hast viele Zahlen (Folie 9, 11, 13, 15, 17, 21).
+   Sprich sie *langsam* und *klar* aus. Lieber doppelt
+   so langsam wie normal.
+
+ÜBERGABE
+   Beende jede deiner Folien mit einer kurzen Brücke
+   zum nächsten Thema. Beispiel: „… kommen wir nun zu …
+   das übernimmt Ben.“ Das wirkt professionell.
+
+KÖRPERSPRACHE
+   • Hände sichtbar, nicht in den Taschen
+   • Bewege dich, wenn du redest — aber nicht hektisch
+   • Wenn Ben spricht, dreh dich leicht zu ihm,
+      nicht ganz zum Publikum
+
+WENN DU EINEN HÄNGER HAST
+   • Trink einen Schluck Wasser (deshalb: Flasche
+      mitnehmen!)
+   • Schau auf die Folie und lies die Stichpunkte
+   • Ben kann übernehmen — vereinbart vorher
+      das Signal: einmal kurz zu ihm schauen
+
+NIE
+   • Mit Ben über das Publikum sprechen
+   • Schneller werden, wenn du nervös bist
+   • Auf Fragen mit „eigentlich“ oder „ähm“ anfangen
+   • Folien-Text 1:1 ablesen
+
+VIEL ERFOLG, JULIUS!  🚀
